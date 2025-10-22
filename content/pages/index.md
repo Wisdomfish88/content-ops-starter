@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Implementing the new workforce
+      text: Implementing a new workforce
       color: text-dark
       type: TitleBlock
     subtitle: Your business never sleeps
