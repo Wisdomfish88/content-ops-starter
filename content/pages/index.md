@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: How does a business
+      text: 'Automate conversations, workflows, and customer support'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
