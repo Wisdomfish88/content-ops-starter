@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: 'Automate chats, bookings, and operations'
     text: >
-      We select the best AI solutions based on your business goals and needs.
+      AI solutions based on your business goals and needs.
 
 
-      Partnering with the top chatbot vendors and automation platforms, we help
+      Powered by top chatbot vendors and automation platforms, we help
       businesses build, customize and maintain AI automation platforms.
     actions:
       - label: Get started
