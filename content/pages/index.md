@@ -8,14 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Automate chats, bookings, and operations'
-    text: >+
+    text: >
       AI solutions based on your business goals and needs.
-
 
       <div style="text-align: left">Powered by top chatbot vendors and
       automation platforms, we help businesses build, customize and maintain AI
       automation platforms.</div>
-
     actions:
       - label: Get started
         altText: ''
