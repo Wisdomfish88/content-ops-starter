@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Your business never sleeps
     text: >
-      We select the best AI solutions based on your business goals and needs. 
+      We select the best AI solutions based on your business goals and needs.
 
 
       Partnering with the top chatbot vendors and automation platforms, we help
-      businesses build and maintain AI automation platforms.
+      businesses build, customize and maintain AI automation platforms.
     actions:
       - label: Get started
         altText: ''
