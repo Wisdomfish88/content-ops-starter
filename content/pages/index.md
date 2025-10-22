@@ -7,7 +7,7 @@ sections:
       text: Implementing a new workforce
       color: text-dark
       type: TitleBlock
-    subtitle: 'Automate chats, bookings, and operations - so your business never sleeps'
+    subtitle: 'Automate chats, bookings, and operations'
     text: >
       We select the best AI solutions based on your business goals and needs.
 
