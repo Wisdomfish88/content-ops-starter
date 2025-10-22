@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Automate conversations, workflows, and customer support'
+      text: Implementing the new workforce
       color: text-dark
       type: TitleBlock
     subtitle: Your business never slee
