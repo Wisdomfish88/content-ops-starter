@@ -7,7 +7,7 @@ sections:
       text: Implementing the new workforce
       color: text-dark
       type: TitleBlock
-    subtitle: Your business never slee
+    subtitle: Your business never sleeps
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
