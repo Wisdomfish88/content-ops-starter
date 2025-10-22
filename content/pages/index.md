@@ -7,7 +7,7 @@ sections:
       text: Implementing a new workforce
       color: text-dark
       type: TitleBlock
-    subtitle: Your business never sleeps
+    subtitle: Change or be changed
     text: >
       We select the best AI solutions based on your business goals and needs.
 
