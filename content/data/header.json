@@ -6,7 +6,13 @@
                 "margin": [
                     "mr-0"
                 ],
-                "borderWidth": 1
+                "borderWidth": 1,
+                "padding": [
+                    "pt-1",
+                    "pl-1",
+                    "pb-1",
+                    "pr-1"
+                ]
             }
         },
         "type": "ImageBlock",
