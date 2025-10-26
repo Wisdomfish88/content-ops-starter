@@ -9,7 +9,8 @@
             }
         },
         "type": "ImageBlock",
-        "url": "/images/blackcollar_logo_transparent.png"
+        "url": "/images/blackcollar_logo_transparent.png",
+        "elementId": "site-logo"
     },
     "primaryLinks": [
         {
