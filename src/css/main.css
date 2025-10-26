@@ -325,3 +325,14 @@
         }
     }
 }
+/* === Custom logo sizing === */
+#site-logo {
+  height: 48px;      /* adjust to preferred size */
+  width: auto;       /* keeps correct aspect ratio */
+}
+
+@media (min-width: 768px) {
+  #site-logo {
+    height: 64px;    /* larger on desktop */
+  }
+}
