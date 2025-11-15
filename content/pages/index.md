@@ -396,7 +396,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: AI Consultancy
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Identify and propose practical solutions for your business
         text: >
           Provide valuable insights on how your business can leverage currently
