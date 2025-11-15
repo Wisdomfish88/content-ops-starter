@@ -345,7 +345,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: AI Chatbot
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
