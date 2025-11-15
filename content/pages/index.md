@@ -349,7 +349,9 @@ sections:
         tagline: This is the tagline
         subtitle: Create and launch an AI chatbot
         text: |
-          Customized to your business needs
+          Customized to your business needs and client requirements
+
+          Prompt chatbot to suit business personality and strategy
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
