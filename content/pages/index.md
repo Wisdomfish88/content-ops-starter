@@ -337,7 +337,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: Pricing
       color: text-primary
       styles:
         self:
