@@ -347,7 +347,7 @@ sections:
     items:
       - title: AI Chatbot
         tagline: This is the tagline
-        subtitle: Create and implement an AI chatbot
+        subtitle: Create and launch an AI chatbot
         text: |
           Customized to your business needs
         image:
