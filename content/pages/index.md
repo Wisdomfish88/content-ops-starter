@@ -372,7 +372,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: This is the tagline
-        subtitle: Workflow Automation - N8N
+        subtitle: Workflow Automation
         text: |
           Automate customized workflows internally for your business
 
