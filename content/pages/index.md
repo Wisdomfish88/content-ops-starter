@@ -376,7 +376,7 @@ sections:
         text: |
           Build automated workflows internally for your business
 
-          Customized to reduce and remove repetitive and low value task
+          Customized to reduce and remove repetitive and low value tasks
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
