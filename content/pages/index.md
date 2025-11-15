@@ -371,7 +371,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Workflow Automation
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Automate repetitive workflows
         text: |
           Build automated workflows internally for your business
