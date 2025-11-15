@@ -337,7 +337,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Products
+      text: Products/Services
       color: text-primary
       styles:
         self:
