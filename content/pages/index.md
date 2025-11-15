@@ -374,9 +374,9 @@ sections:
         tagline: This is the tagline
         subtitle: Automate repetitive workflows
         text: |
-          Automate customized workflows internally for your business
+          Build automated workflows internally for your business
 
-          Reduce and remove repetitive and low value task
+          Customized to reduce and remove repetitive and low value task
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
