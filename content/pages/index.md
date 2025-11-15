@@ -397,7 +397,7 @@ sections:
         type: FeaturedItem
       - title: AI Consultancy
         tagline: This is the tagline
-        subtitle: Identify and propose solutions that you can use
+        subtitle: Identify and propose practical solutions for your business
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
