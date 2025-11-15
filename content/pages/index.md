@@ -370,7 +370,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: ''
+      - title: Workflow Automation
         tagline: This is the tagline
         subtitle: Workflow Automation
         text: |
