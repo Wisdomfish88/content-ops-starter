@@ -374,7 +374,9 @@ sections:
         tagline: This is the tagline
         subtitle: Workflow Automation - N8N
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Automate customized workflows internally for your business
+
+          Reduce and remove repetitive and low value task
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
