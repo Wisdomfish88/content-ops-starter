@@ -166,7 +166,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Leveraging Market Ready Solutions
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
