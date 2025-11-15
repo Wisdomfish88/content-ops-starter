@@ -337,7 +337,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Pricing
+      text: Products
       color: text-primary
       styles:
         self:
