@@ -347,7 +347,7 @@ sections:
     items:
       - title: AI Chatbot
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Create and implement an AI chatbot
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
