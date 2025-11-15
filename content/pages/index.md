@@ -372,7 +372,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Workflow Automation - N8N
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
