@@ -171,8 +171,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: '/images/ChatGPT Image Nov 15, 2025, 08_51_44 PM.png'
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
