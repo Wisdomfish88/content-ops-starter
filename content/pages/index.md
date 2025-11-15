@@ -399,8 +399,8 @@ sections:
         tagline: This is the tagline
         subtitle: Identify and propose practical solutions for your business
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Provide valuable insights on how your business can leverage currently
+          available AI tools to grow exponentially
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
