@@ -346,7 +346,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: AI Chatbot
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Create and launch an AI chatbot
         text: |
           Customized to your business needs and client requirements
