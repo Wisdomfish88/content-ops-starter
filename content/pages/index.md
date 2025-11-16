@@ -168,16 +168,16 @@ sections:
         textAlign: center
   - subtitle: Leveraging Market Ready Solutions
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/make.svg
+        altText: Make logo
         type: ImageBlock
       - altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: /images/n8n.svg
+        altText: N8n logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - url: /images/zapier.svg
+        altText: Zapier logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
